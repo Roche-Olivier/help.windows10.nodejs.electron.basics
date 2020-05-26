@@ -151,8 +151,7 @@ Run the following command :
 
 Your application will start and open an electron window that looks like this:
 
-![applicaiton_image](https://github.com/Roche-Olivier/Examples/blob/master/Images/ex1_electron_screen.png "Application screen")
-
+![applicaiton_image](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/screen/ex1_electron_screen.png "Application screen")
 
 ![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/footer.png "Examples and lessons")
 
