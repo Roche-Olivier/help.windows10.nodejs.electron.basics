@@ -1,5 +1,6 @@
 
-# Index
+## Electron application
+#### Taken from 'https://en.wikipedia.org/wiki/Electron_(software_framework)'
 
 > Electron (formerly known as Atom Shell) is an open-source software framework developed and maintained by GitHub. It allows for the development of desktop GUI applications using web technologies: it combines the Chromium rendering engine and the Node.js runtime. Electron is the main GUI framework behind several notable open-source projects including Atom, GitHub Desktop, Light Table, Visual Studio Code, and WordPress Desktop.
 

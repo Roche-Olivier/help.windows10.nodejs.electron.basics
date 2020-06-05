@@ -1,4 +1,4 @@
-### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics)
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics)
 
 ## Hello world
 
@@ -115,7 +115,7 @@ Your application will start and open an electron window that looks like this:
 
 ![applicaiton_image](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/screen/ex1_electron_screen.png "Application screen")
 
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/footer.png "Examples and lessons")
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.electron.basics)
 
 
 
